@@ -6,7 +6,7 @@
 
 Para calcular o imposto de renda que uma pessoa deve pagar, um país aplica as seguintes regras:
 
-1. Imposto sobre salário: a pessoa paga imposto sobre seu salário conforme tabela.
+1. Imposto sobre salário: a pessoa paga imposto sobre seu salário conforme a tabela.
 
 1. Se a pessoa obteve renda com prestação de serviços, o imposto cobrado é de 15%.
 
